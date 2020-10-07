@@ -22,4 +22,5 @@
 	}
 ```
 然后保存<br>
+注意:"feed_name"与"feed_url"根据自己的情况来写，"feed_url"为订阅链接，这里我是以我的服务器链接为例。<br>
 如果有侵权望联系demean@demean.onmicrosoft.com
