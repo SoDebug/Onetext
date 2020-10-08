@@ -8,7 +8,7 @@
 ```https://www.demean.top/Resource/Onetext/Onetext.json```
 
 在onetext(Android)应用程序调用应当如下<br>
-进入设置/修改订阅源，在"]"之前添加代码<br>
+进入设置/修改订阅源，在最后一行"]"之前添加代码<br>
 
 ```,
 	{
